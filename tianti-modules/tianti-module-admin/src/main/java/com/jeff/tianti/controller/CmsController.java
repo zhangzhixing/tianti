@@ -33,6 +33,7 @@ import com.jeff.tianti.util.Constants;
 @RequestMapping("/cms")
 public class CmsController {
 	//5555555555555555
+    //test 20180207
 	@Autowired
 	private ColumnInfoService columnInfoService;
 	
