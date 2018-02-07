@@ -15,6 +15,7 @@ import com.jeff.tianti.cms.dto.ColumnInfoQueryDTO;
  * @author xujianfang
  * @desc ColumnInfoDaoImpl类 
  * @date 2017-03-16
+ * 5555555555555555
  */
 
 public class ColumnInfoDaoImpl extends CustomBaseSqlDaoImpl implements ColumnInfoDaoCustom  {
